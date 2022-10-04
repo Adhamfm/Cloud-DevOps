@@ -1,0 +1,7 @@
+[{
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "AdhamFinalProject"
+}, {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t3.medium"
+}]
