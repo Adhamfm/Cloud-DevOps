@@ -3,7 +3,7 @@
 **ourinfra.yml** creats the Infrastructure stack
 
 ## Project Diagram
-![alt text](https://github.com/Adhamfm/Cloud-DevOps/blob/main/FinalProject.png "Project Diagram")
+![alt text](https://github.com/Adhamfm/Cloud-DevOps/blob/main/FinalProject.jpeg "Project Diagram")
 
 ourinfra.yml creates:
 1. 1 VPC with 2 public subnets and 2 private subnets deployed in 2 different AZs 
