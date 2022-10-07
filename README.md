@@ -1,6 +1,6 @@
 # What Files create what Stacks
-**final-project.yml** creates the Servers stack
-**ourinfra.yml** creats the Infrastructure stack
+* **final-project.yml** creates the **Servers stack** 
+* **ourinfra.yml** creats the **Infrastructure stack**
 
 ## Project Diagram
 ![alt text](https://github.com/Adhamfm/Cloud-DevOps/blob/main/FinalProject.jpeg "Project Diagram")
